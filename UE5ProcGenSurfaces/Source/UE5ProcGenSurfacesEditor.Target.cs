@@ -11,5 +11,8 @@ public class UE5ProcGenSurfacesEditorTarget : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1;
 		ExtraModuleNames.Add("UE5ProcGenSurfaces");
-	}
+        AdditionalPlugins.Add("ImGui");
+
+        
+    }
 }

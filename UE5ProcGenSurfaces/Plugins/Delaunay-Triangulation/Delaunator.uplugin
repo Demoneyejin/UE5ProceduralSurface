@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"Version": 4.27,
+	"VersionName": "4.27",
+	"FriendlyName": "Delaunator",
+	"Description": "Unreal Engine 4 Delaunay Triangulation Module. This version was updated to compile as a ue4 game plugin module.",
+	"Category": "Other",
+	"CreatedBy": "https://github.com/kingnobro",
+	"CreatedByURL": "https://github.com/Ed94/UE4-Delaunay-Triangulation",
+	"DocsURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Delaunator",
+			"Type": "RunTime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
